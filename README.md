@@ -16,7 +16,7 @@
 | read01-java-basics     | [read01-java-basics](401/read01-java-basics.md) |
 | read02-import          | [read02-import](401/read02-import.md)           |
 | read03-primitivesvsObjects   | [read03-primitivesvsObjects](401/primitivesvsObjects.md)                |
-| read04                 | [read04](401/read04.md)                |
+| objectsandClasses                 | [read04](401/objectsandClasses.md)                |
 | read05                 | [read05](401/read05.md)                |
 | read06                 | [read06](401/read06.md)                |
 | read08                 | [read08](401/read08.md)                |
