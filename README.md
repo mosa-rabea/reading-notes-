@@ -17,7 +17,7 @@
 | read02-import          | [read02-import](401/read02-import.md)           |
 | read03-primitivesvsObjects   | [read03-primitivesvsObjects](401/read03-primitivesvsObjects.md)                |
 | read04-objectsandClasses                 | [read04-objectsandClasses](401/read04-objectsandClasses.md)                |
-| read05-linked-list.md                 | [read05-linked-list.md](401/read05-linked-list.md.md)                |
+| read05-linked-list.md                 | [read05-linked-list](401/read05-linked-list.md)                |
 | read06                 | [read06](401/read06.md)                |
 | read08                 | [read08](401/read08.md)                |
 | read09                 | [read09](401/read09.md)                |
