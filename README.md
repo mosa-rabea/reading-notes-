@@ -19,7 +19,7 @@
 | read04-objectsandClasses                 | [read04-objectsandClasses](401/read04-objectsandClasses.md)                |
 | read05-linked-list                 | [read05-linked-list](401/read05-linked-list.md)                |
 | read06-Inheritance                | [read06-Inheritance.md](401/read06-Inheritance.md)                |
-| read08                 | [read08](401/read08.md)                |
+| read08-OO-Design                | [read08-OO-Design](401/read08-OO-Design.md)                |
 | read09                 | [read09](401/read09.md)                |
 | read10                 | [read10](401/read10.md)                |
 | read11                 | [read11](401/read11.md)                |
