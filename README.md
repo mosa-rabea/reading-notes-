@@ -21,7 +21,7 @@
 | read06-Inheritance                | [read06-Inheritance.md](401/read06-Inheritance.md)                |
 | read08-OO-Design                | [read08-OO-Design](401/read08-OO-Design.md)                |
 | read09-WRRC-and-Java                 | [read09-WRRC-and-Java](401/read09-WRRC-and-Java.md)                |
-| read10                 | [read10](401/read10.md)                |
+| read10-Stacks-and-Queues                 | [read10-Stacks-and-Queues](401/read10-Stacks-and-Queues.md)                |
 | read11                 | [read11](401/read11.md)                |
 | read12                 | [read12](401/read12.md)                |
 | read13                 | [read13](401/read13.md)                |
