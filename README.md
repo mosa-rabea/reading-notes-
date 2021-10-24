@@ -23,7 +23,7 @@
 | read09-WRRC-and-Java                 | [read09-WRRC-and-Java](401/read09-WRRC-and-Java.md)                |
 | read10-Stacks-and-Queues                 | [read10-Stacks-and-Queues](401/read10-Stacks-and-Queues.md)                |
 | read11-spring                 | [read11-spring](401/read11-spring.md)                |
-| read12                 | [read12](401/read12.md)                |
+| read12-SpringRESTfulRouting                 | [read12-SpringRESTfulRouting](401/read12-SpringRESTfulRouting.md)                |
 | read13                 | [read13](401/read13.md)                |
 | read14                 | [read14](401/read14.md)                |
 | read15                 | [read15](401/read15.md)                |
