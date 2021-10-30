@@ -26,7 +26,7 @@
 | read12-SpringRESTfulRouting                 | [read12-SpringRESTfulRouting](401/read12-SpringRESTfulRouting.md)                |
 | read013-relatedResources                 | [read013-relatedResources](401/read013-relatedResources.md)                |
 | read14-trees                 | [read14-trees](401/read14-trees.md)                |
-| read15                 | [read15](401/read15.md)                |
+| read15-Authentication                 | [read15-Authentication](401/read15-Authentication.md)                |
 | read17                 | [read17](401/read17.md)                |
 | read18                 | [read18](401/read18.md)                |
 
