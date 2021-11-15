@@ -32,7 +32,7 @@
 | read19-WebSocket| [read19-WebSocket](401/read19-WebSocket.md)                |
 | read20-applicationFundamentals| [read20-applicationFundamentals](401/read20-applicationFundamentals.md)                |
 | read27-TasksAndBackStack| [read27-TasksAndBackStack](401/read27-TasksAndBackStack.md)                |
-
+| read28-RecyclerView| [read28-RecyclerView](401/read28-RecyclerView.md)                |
 
 
 
