@@ -34,7 +34,7 @@
 | read27-TasksAndBackStack| [read27-TasksAndBackStack](401/read27-TasksAndBackStack.md)                |
 | read28-RecyclerView| [read28-RecyclerView](401/read28-RecyclerView.md)                |
 | read29-Room| [read29-Room](401/read29-Room.md)                |
-
+| read30-HashTables| [read30-HashTables](401/read30-HashTables.md)                |
 
 
 
