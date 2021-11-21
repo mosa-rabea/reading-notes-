@@ -36,6 +36,8 @@
 | read29-Room| [read29-Room](401/read29-Room.md)                |
 | read30-HashTables| [read30-HashTables](401/read30-HashTables.md)                |
 | read31-Espresso | [read31-Espresso](401/read31-Espresso.md)                |
+| read32-ServerlessAndAmplify | [read32-ServerlessAndAmplify](401/read32-ServerlessAndAmplify.md)                |
+
 
 
 
