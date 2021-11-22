@@ -79,5 +79,9 @@ type User @model {
 ```
 
 
+# Note:
 
+* GraphQL is an alternate option to build APIs in REST. Facebook developed it as an internal technology
+ for their versatile applications, and later, publicly released it as open-source. Since then, 
+ the software development community has utilized it as one of the favourite technology stacks for developing web services.
 
