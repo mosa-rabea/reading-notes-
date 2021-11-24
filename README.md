@@ -39,7 +39,7 @@
 | read32-ServerlessAndAmplify | [read32-ServerlessAndAmplify](401/read32-ServerlessAndAmplify.md)                |
 | read33-GraphQL | [read33-GraphQL](401/read33-GraphQL.md)                |
 | read34-Monetization | [read34-Monetization](401/read34-Monetization.md)                |
-
+| read35-Graphs | [read35-Graphs](401/read35-Graphs.md)                |
 
 
 
