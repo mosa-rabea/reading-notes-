@@ -10,12 +10,12 @@ performance, security, and virtually unlimited scalability at very low costs.
 
 * Objects are the fundamental entities stored in Amazon S3. Objects consist of object data and metadata. The data portion is opaque to Amazon S3. The metadata is a set of name-value pairs that describe the object.
 
-![S3a](https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Far%2Fs3%2Ffeatures%2Faccess-points%2F&psig=AOvVaw22h1pOZ70RV5CEyQ__HOwy&ust=1638217286171000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCgkJnxu_QCFQAAAAAdAAAAABAD)
+![S3a](https://d1.awsstatic.com/re19/Westeros/Diagram_S3_Access_Points.fa88c474dc1073aede962aaf3a6af2d6b02be933.png)
 
 
 ### S3 features
 
-![S3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Faws-s3&psig=AOvVaw2cyFwO0Ttm1yzUyuJchlUH&ust=1638217341977000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDOm6zxu_QCFQAAAAAdAAAAABAD)
+![S3](https://static.javatpoint.com/tutorial/aws/images/advantages-of-aws-s3.jpg)
 
 1. Storage classes: offers a range of storage classes designed for different use cases.
 2. Bucket policies: provide centralized access control to buckets and objects based on a variety of conditions.
