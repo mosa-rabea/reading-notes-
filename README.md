@@ -42,6 +42,7 @@
 | read35-Graphs | [read35-Graphs](401/read35-Graphs.md)                |
 | read36-Cognito | [read36-Cognito](401/read36-Cognito.md)                |
 | read37-S3 | [read37-S3](401/read37-S3.md)                |
-
-
-
+| read38-Notifications | [read38-Notifications](401/read38-Notifications.md)                |
+| coming soon| [read37-S3](401/read39.md)
+| coming soon| [read37-S3](401/read39.md)
+| coming soon| [read37-S3](401/read39.md)
